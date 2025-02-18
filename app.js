@@ -7,9 +7,10 @@ app.get("/", function(req, res) {
 });
 
 app.get("/roll-a-die", function(req, res) {
-	res.json({
-		"value": Math.floor(Math.random() * 6)
-	});
+	res.sendFile("index.html", { root: __dirname });
+	//res.json({
+	//	"value": Math.floor(Math.random() * 6)
+	//});
 });
 
 app.listen(port, function() {
