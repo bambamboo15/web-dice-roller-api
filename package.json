@@ -1,0 +1,19 @@
+{
+  "name": "web-dice-roller-api",
+  "version": "1.0.0",
+  "description": "The API for Web Dice Roller",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bambamboo15/web-dice-roller-api.git"
+  },
+  "author": "Benyamin Bamburac",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bambamboo15/web-dice-roller-api/issues"
+  },
+  "homepage": "https://github.com/bambamboo15/web-dice-roller-api#readme"
+}
