@@ -1,0 +1,19 @@
+<!--
+    Author:			Benyamin Bamburac
+    Class:			Software Engineering
+    Description:	API for Web Dice Roller
+-->
+<!DOCTYPE html>
+<html>
+	<head>
+		<title>Web Dice Roller API Test</title>
+	</head>
+	<body>
+		<script>
+			fetch("http://web-dice-roller-api.azurewebsites.net/roll-a-die")
+				.then(response => response.json())
+				.then(data => console.log(data))
+				.catch(() => console.log("Something failed :("))
+		</script>
+	</body>
+</html>
