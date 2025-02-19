@@ -8,7 +8,7 @@ app.get("/", function(req, res) {
 
 app.get("/roll-a-die", function(req, res) {
 	res.json({
-		"value": Math.floor(Math.random() * 6)
+		"value": 1 + Math.floor(Math.random() * 6)
 	});
 });
 
