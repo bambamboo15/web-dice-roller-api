@@ -4,9 +4,9 @@
 
 My name is Benyamin Bamburac, my Lewis University email address is [benyaminfbamburac@lewisu.edu](mailto:benyaminfbamburac@lewisu.edu), and this project is Web Dice Roller API.
 
-## Originality
+## Credit
 
-All content in this website is original.
+I credit Microsoft and my professor Eric Pogue for the template.
 
 ## Instructions
 
