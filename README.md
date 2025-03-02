@@ -6,7 +6,7 @@ My name is Benyamin Bamburac, my Lewis University email address is [benyaminfbam
 
 ## Credit
 
-I credit Microsoft and my professor Eric Pogue for the template.
+I credit Microsoft and my professor Eric Pogue for the [template](https://github.com/EricJPogue/cpsc-example-code/tree/main/web/node-js-on-azure).
 
 ## Instructions
 
